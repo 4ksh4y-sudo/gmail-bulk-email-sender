@@ -16,7 +16,7 @@ and **real consequences** if misused:
 
 - **Gmail limits:** ~500 recipients/day (personal), ~2000/day (Workspace)
 - **Account risk:** Unsolicited bulk mail can get your Gmail **suspended**
-- **Legal risk:** CAN-SPAM, GDPR, CASL and similar laws apply to bulk mail
+- **Legal risk:** CAN-SPAM, GDPR, CASL and similar laws apply to bulk mail 
 - **Privacy:** Your Gmail address is visible to every recipient
 
 This tool is intended for **small, opted-in lists** (a club, a class, a
